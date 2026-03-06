@@ -28,5 +28,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Tip Time"
+rootProject.name = "TipTime"
 include(":app")
+
